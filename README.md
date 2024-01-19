@@ -1,14 +1,14 @@
 # CS210_termproj
-Overview
+Overview:
 This repository contains the code and documentation for a data science project conducted as part of the CS210-Data Science course. The project focuses on analyzing Spotify data to gain insights into musical preferences between the years 2018 and 2023. The primary hypothesis being investigated is whether the user's musical preferences deviate from conventional human habits.
 
-Data Collection
+Data Collection:
 The Spotify data is obtained from the user's account, and additional data augmentation is performed using the "chosic.com" to enrich the dataset.
 
-Hypothesis
+Hypothesis:
 The central hypothesis of this project is: "The musical preferences to which I adhere do not align with conventional human habits."
 
-Methodology
+Methodology:
 1-Playlist Analysis (2018-2023):
 
 Investigate playlists listened to between 2018 and 2023.
